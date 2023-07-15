@@ -12,4 +12,4 @@ details such as distance, duration, cadence, or altitude. The workout will be sa
   <li>HTML</li>
   <li>CSS</li>
 </ul>
-<p>Introduced by Jonas Schmedtmann to practice vanilla JS and interacting with third-party API</p>
+<p>Introduced by <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a> to practice vanilla JS and interacting with third-party API</p>
