@@ -1,4 +1,5 @@
 <h2>Mapty-application</h2>
+<img src="https://github.com/SabitovIlyar/Mapty-application/blob/main/img/Mapty%20App.png?raw=true">
 <p>Mapty is a map application for tracking and recording your running or cycling activity<p>
 <p>
   The user can select any point on the map and record running or cycling activity. To save a workout, the user needs to provide a  
